@@ -47,7 +47,7 @@ a1{
     display: flex;
     flex-direction: row;
     align-content: center;
-    max-width: 120rem;
+    max-width: 100%;
     width: 100%;
 
 
